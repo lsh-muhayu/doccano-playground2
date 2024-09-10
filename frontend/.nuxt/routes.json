@@ -1,0 +1,1038 @@
+[
+  {
+    "name": "auth___en",
+    "path": "/auth",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/auth.vue",
+    "chunkName": "pages/auth",
+    "_name": "_88e084a4"
+  },
+  {
+    "name": "index___de",
+    "path": "/de",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_31d30ebc"
+  },
+  {
+    "name": "index___fr",
+    "path": "/fr",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_31d30ebc"
+  },
+  {
+    "name": "projects___en",
+    "path": "/projects",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_57aaff03"
+  },
+  {
+    "name": "index___zh",
+    "path": "/zh",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_31d30ebc"
+  },
+  {
+    "name": "auth___de",
+    "path": "/de/auth",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/auth.vue",
+    "chunkName": "pages/auth",
+    "_name": "_88e084a4"
+  },
+  {
+    "name": "projects___de",
+    "path": "/de/projects",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_57aaff03"
+  },
+  {
+    "name": "demo-image-caption___en",
+    "path": "/demo/image-caption",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-caption/index.vue",
+    "chunkName": "pages/demo/image-caption/index",
+    "_name": "_7db47fd1"
+  },
+  {
+    "name": "demo-image-classification___en",
+    "path": "/demo/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-classification/index.vue",
+    "chunkName": "pages/demo/image-classification/index",
+    "_name": "_571ed99e"
+  },
+  {
+    "name": "demo-intent-detection-and-slot-filling___en",
+    "path": "/demo/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/demo/intent-detection-and-slot-filling/index",
+    "_name": "_32de8c9c"
+  },
+  {
+    "name": "demo-named-entity-recognition___en",
+    "path": "/demo/named-entity-recognition",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/named-entity-recognition/index.vue",
+    "chunkName": "pages/demo/named-entity-recognition/index",
+    "_name": "_1b87d23a"
+  },
+  {
+    "name": "demo-object-detection___en",
+    "path": "/demo/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/object-detection/index.vue",
+    "chunkName": "pages/demo/object-detection/index",
+    "_name": "_21bbce50"
+  },
+  {
+    "name": "demo-segmentation___en",
+    "path": "/demo/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/segmentation/index.vue",
+    "chunkName": "pages/demo/segmentation/index",
+    "_name": "_5e364c8a"
+  },
+  {
+    "name": "demo-sentiment-analysis___en",
+    "path": "/demo/sentiment-analysis",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/sentiment-analysis/index.vue",
+    "chunkName": "pages/demo/sentiment-analysis/index",
+    "_name": "_d66e385a"
+  },
+  {
+    "name": "demo-speech-to-text___en",
+    "path": "/demo/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/speech-to-text/index.vue",
+    "chunkName": "pages/demo/speech-to-text/index",
+    "_name": "_dd822126"
+  },
+  {
+    "name": "demo-text-to-sql___en",
+    "path": "/demo/text-to-sql",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/text-to-sql/index.vue",
+    "chunkName": "pages/demo/text-to-sql/index",
+    "_name": "_6ab4cef9"
+  },
+  {
+    "name": "demo-translation___en",
+    "path": "/demo/translation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/translation/index.vue",
+    "chunkName": "pages/demo/translation/index",
+    "_name": "_c43d5164"
+  },
+  {
+    "name": "auth___fr",
+    "path": "/fr/auth",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/auth.vue",
+    "chunkName": "pages/auth",
+    "_name": "_88e084a4"
+  },
+  {
+    "name": "projects___fr",
+    "path": "/fr/projects",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_57aaff03"
+  },
+  {
+    "name": "projects-create___en",
+    "path": "/projects/create",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/create.vue",
+    "chunkName": "pages/projects/create",
+    "_name": "_752da7ca"
+  },
+  {
+    "name": "auth___zh",
+    "path": "/zh/auth",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/auth.vue",
+    "chunkName": "pages/auth",
+    "_name": "_88e084a4"
+  },
+  {
+    "name": "projects___zh",
+    "path": "/zh/projects",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/index.vue",
+    "chunkName": "pages/projects/index",
+    "_name": "_57aaff03"
+  },
+  {
+    "name": "demo-image-caption___de",
+    "path": "/de/demo/image-caption",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-caption/index.vue",
+    "chunkName": "pages/demo/image-caption/index",
+    "_name": "_7db47fd1"
+  },
+  {
+    "name": "demo-image-classification___de",
+    "path": "/de/demo/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-classification/index.vue",
+    "chunkName": "pages/demo/image-classification/index",
+    "_name": "_571ed99e"
+  },
+  {
+    "name": "demo-intent-detection-and-slot-filling___de",
+    "path": "/de/demo/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/demo/intent-detection-and-slot-filling/index",
+    "_name": "_32de8c9c"
+  },
+  {
+    "name": "demo-named-entity-recognition___de",
+    "path": "/de/demo/named-entity-recognition",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/named-entity-recognition/index.vue",
+    "chunkName": "pages/demo/named-entity-recognition/index",
+    "_name": "_1b87d23a"
+  },
+  {
+    "name": "demo-object-detection___de",
+    "path": "/de/demo/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/object-detection/index.vue",
+    "chunkName": "pages/demo/object-detection/index",
+    "_name": "_21bbce50"
+  },
+  {
+    "name": "demo-segmentation___de",
+    "path": "/de/demo/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/segmentation/index.vue",
+    "chunkName": "pages/demo/segmentation/index",
+    "_name": "_5e364c8a"
+  },
+  {
+    "name": "demo-sentiment-analysis___de",
+    "path": "/de/demo/sentiment-analysis",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/sentiment-analysis/index.vue",
+    "chunkName": "pages/demo/sentiment-analysis/index",
+    "_name": "_d66e385a"
+  },
+  {
+    "name": "demo-speech-to-text___de",
+    "path": "/de/demo/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/speech-to-text/index.vue",
+    "chunkName": "pages/demo/speech-to-text/index",
+    "_name": "_dd822126"
+  },
+  {
+    "name": "demo-text-to-sql___de",
+    "path": "/de/demo/text-to-sql",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/text-to-sql/index.vue",
+    "chunkName": "pages/demo/text-to-sql/index",
+    "_name": "_6ab4cef9"
+  },
+  {
+    "name": "demo-translation___de",
+    "path": "/de/demo/translation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/translation/index.vue",
+    "chunkName": "pages/demo/translation/index",
+    "_name": "_c43d5164"
+  },
+  {
+    "name": "projects-create___de",
+    "path": "/de/projects/create",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/create.vue",
+    "chunkName": "pages/projects/create",
+    "_name": "_752da7ca"
+  },
+  {
+    "name": "demo-image-caption___fr",
+    "path": "/fr/demo/image-caption",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-caption/index.vue",
+    "chunkName": "pages/demo/image-caption/index",
+    "_name": "_7db47fd1"
+  },
+  {
+    "name": "demo-image-classification___fr",
+    "path": "/fr/demo/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-classification/index.vue",
+    "chunkName": "pages/demo/image-classification/index",
+    "_name": "_571ed99e"
+  },
+  {
+    "name": "demo-intent-detection-and-slot-filling___fr",
+    "path": "/fr/demo/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/demo/intent-detection-and-slot-filling/index",
+    "_name": "_32de8c9c"
+  },
+  {
+    "name": "demo-named-entity-recognition___fr",
+    "path": "/fr/demo/named-entity-recognition",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/named-entity-recognition/index.vue",
+    "chunkName": "pages/demo/named-entity-recognition/index",
+    "_name": "_1b87d23a"
+  },
+  {
+    "name": "demo-object-detection___fr",
+    "path": "/fr/demo/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/object-detection/index.vue",
+    "chunkName": "pages/demo/object-detection/index",
+    "_name": "_21bbce50"
+  },
+  {
+    "name": "demo-segmentation___fr",
+    "path": "/fr/demo/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/segmentation/index.vue",
+    "chunkName": "pages/demo/segmentation/index",
+    "_name": "_5e364c8a"
+  },
+  {
+    "name": "demo-sentiment-analysis___fr",
+    "path": "/fr/demo/sentiment-analysis",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/sentiment-analysis/index.vue",
+    "chunkName": "pages/demo/sentiment-analysis/index",
+    "_name": "_d66e385a"
+  },
+  {
+    "name": "demo-speech-to-text___fr",
+    "path": "/fr/demo/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/speech-to-text/index.vue",
+    "chunkName": "pages/demo/speech-to-text/index",
+    "_name": "_dd822126"
+  },
+  {
+    "name": "demo-text-to-sql___fr",
+    "path": "/fr/demo/text-to-sql",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/text-to-sql/index.vue",
+    "chunkName": "pages/demo/text-to-sql/index",
+    "_name": "_6ab4cef9"
+  },
+  {
+    "name": "demo-translation___fr",
+    "path": "/fr/demo/translation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/translation/index.vue",
+    "chunkName": "pages/demo/translation/index",
+    "_name": "_c43d5164"
+  },
+  {
+    "name": "projects-create___fr",
+    "path": "/fr/projects/create",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/create.vue",
+    "chunkName": "pages/projects/create",
+    "_name": "_752da7ca"
+  },
+  {
+    "name": "demo-image-caption___zh",
+    "path": "/zh/demo/image-caption",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-caption/index.vue",
+    "chunkName": "pages/demo/image-caption/index",
+    "_name": "_7db47fd1"
+  },
+  {
+    "name": "demo-image-classification___zh",
+    "path": "/zh/demo/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/image-classification/index.vue",
+    "chunkName": "pages/demo/image-classification/index",
+    "_name": "_571ed99e"
+  },
+  {
+    "name": "demo-intent-detection-and-slot-filling___zh",
+    "path": "/zh/demo/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/demo/intent-detection-and-slot-filling/index",
+    "_name": "_32de8c9c"
+  },
+  {
+    "name": "demo-named-entity-recognition___zh",
+    "path": "/zh/demo/named-entity-recognition",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/named-entity-recognition/index.vue",
+    "chunkName": "pages/demo/named-entity-recognition/index",
+    "_name": "_1b87d23a"
+  },
+  {
+    "name": "demo-object-detection___zh",
+    "path": "/zh/demo/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/object-detection/index.vue",
+    "chunkName": "pages/demo/object-detection/index",
+    "_name": "_21bbce50"
+  },
+  {
+    "name": "demo-segmentation___zh",
+    "path": "/zh/demo/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/segmentation/index.vue",
+    "chunkName": "pages/demo/segmentation/index",
+    "_name": "_5e364c8a"
+  },
+  {
+    "name": "demo-sentiment-analysis___zh",
+    "path": "/zh/demo/sentiment-analysis",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/sentiment-analysis/index.vue",
+    "chunkName": "pages/demo/sentiment-analysis/index",
+    "_name": "_d66e385a"
+  },
+  {
+    "name": "demo-speech-to-text___zh",
+    "path": "/zh/demo/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/speech-to-text/index.vue",
+    "chunkName": "pages/demo/speech-to-text/index",
+    "_name": "_dd822126"
+  },
+  {
+    "name": "demo-text-to-sql___zh",
+    "path": "/zh/demo/text-to-sql",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/text-to-sql/index.vue",
+    "chunkName": "pages/demo/text-to-sql/index",
+    "_name": "_6ab4cef9"
+  },
+  {
+    "name": "demo-translation___zh",
+    "path": "/zh/demo/translation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/demo/translation/index.vue",
+    "chunkName": "pages/demo/translation/index",
+    "_name": "_c43d5164"
+  },
+  {
+    "name": "projects-create___zh",
+    "path": "/zh/projects/create",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/create.vue",
+    "chunkName": "pages/projects/create",
+    "_name": "_752da7ca"
+  },
+  {
+    "name": "index___en",
+    "path": "/",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_31d30ebc"
+  },
+  {
+    "name": "projects-id___de",
+    "path": "/de/projects/:id",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/index.vue",
+    "chunkName": "pages/projects/_id/index",
+    "_name": "_19d23f24"
+  },
+  {
+    "name": "projects-id___fr",
+    "path": "/fr/projects/:id",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/index.vue",
+    "chunkName": "pages/projects/_id/index",
+    "_name": "_19d23f24"
+  },
+  {
+    "name": "projects-id___zh",
+    "path": "/zh/projects/:id",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/index.vue",
+    "chunkName": "pages/projects/_id/index",
+    "_name": "_19d23f24"
+  },
+  {
+    "name": "projects-id-comments___de",
+    "path": "/de/projects/:id/comments",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/comments/index.vue",
+    "chunkName": "pages/projects/_id/comments/index",
+    "_name": "_8246aaea"
+  },
+  {
+    "name": "projects-id-dataset___de",
+    "path": "/de/projects/:id/dataset",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/index.vue",
+    "chunkName": "pages/projects/_id/dataset/index",
+    "_name": "_7baedf97"
+  },
+  {
+    "name": "projects-id-guideline___de",
+    "path": "/de/projects/:id/guideline",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/guideline/index.vue",
+    "chunkName": "pages/projects/_id/guideline/index",
+    "_name": "_7bdf910f"
+  },
+  {
+    "name": "projects-id-image-captioning___de",
+    "path": "/de/projects/:id/image-captioning",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-captioning/index.vue",
+    "chunkName": "pages/projects/_id/image-captioning/index",
+    "_name": "_046ab805"
+  },
+  {
+    "name": "projects-id-image-classification___de",
+    "path": "/de/projects/:id/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-classification/index.vue",
+    "chunkName": "pages/projects/_id/image-classification/index",
+    "_name": "_137b6c2f"
+  },
+  {
+    "name": "projects-id-intent-detection-and-slot-filling___de",
+    "path": "/de/projects/:id/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/projects/_id/intent-detection-and-slot-filling/index",
+    "_name": "_7040c05e"
+  },
+  {
+    "name": "projects-id-labels___de",
+    "path": "/de/projects/:id/labels",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/index.vue",
+    "chunkName": "pages/projects/_id/labels/index",
+    "_name": "_ceb46c54"
+  },
+  {
+    "name": "projects-id-members___de",
+    "path": "/de/projects/:id/members",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/members/index.vue",
+    "chunkName": "pages/projects/_id/members/index",
+    "_name": "_08c35ef8"
+  },
+  {
+    "name": "projects-id-metrics___de",
+    "path": "/de/projects/:id/metrics",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/metrics/index.vue",
+    "chunkName": "pages/projects/_id/metrics/index",
+    "_name": "_3b796bbc"
+  },
+  {
+    "name": "projects-id-object-detection___de",
+    "path": "/de/projects/:id/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/object-detection/index.vue",
+    "chunkName": "pages/projects/_id/object-detection/index",
+    "_name": "_44b25364"
+  },
+  {
+    "name": "projects-id-segmentation___de",
+    "path": "/de/projects/:id/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/segmentation/index.vue",
+    "chunkName": "pages/projects/_id/segmentation/index",
+    "_name": "_271f90b9"
+  },
+  {
+    "name": "projects-id-sequence-labeling___de",
+    "path": "/de/projects/:id/sequence-labeling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-labeling/index.vue",
+    "chunkName": "pages/projects/_id/sequence-labeling/index",
+    "_name": "_9aa696ce"
+  },
+  {
+    "name": "projects-id-sequence-to-sequence___de",
+    "path": "/de/projects/:id/sequence-to-sequence",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-to-sequence/index.vue",
+    "chunkName": "pages/projects/_id/sequence-to-sequence/index",
+    "_name": "_572d3d9e"
+  },
+  {
+    "name": "projects-id-settings___de",
+    "path": "/de/projects/:id/settings",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/settings/index.vue",
+    "chunkName": "pages/projects/_id/settings/index",
+    "_name": "_b6724c0c"
+  },
+  {
+    "name": "projects-id-speech-to-text___de",
+    "path": "/de/projects/:id/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/speech-to-text/index.vue",
+    "chunkName": "pages/projects/_id/speech-to-text/index",
+    "_name": "_43a7deeb"
+  },
+  {
+    "name": "projects-id-text-classification___de",
+    "path": "/de/projects/:id/text-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/text-classification/index.vue",
+    "chunkName": "pages/projects/_id/text-classification/index",
+    "_name": "_aca5efb6"
+  },
+  {
+    "name": "projects-id-comments___fr",
+    "path": "/fr/projects/:id/comments",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/comments/index.vue",
+    "chunkName": "pages/projects/_id/comments/index",
+    "_name": "_8246aaea"
+  },
+  {
+    "name": "projects-id-dataset___fr",
+    "path": "/fr/projects/:id/dataset",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/index.vue",
+    "chunkName": "pages/projects/_id/dataset/index",
+    "_name": "_7baedf97"
+  },
+  {
+    "name": "projects-id-guideline___fr",
+    "path": "/fr/projects/:id/guideline",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/guideline/index.vue",
+    "chunkName": "pages/projects/_id/guideline/index",
+    "_name": "_7bdf910f"
+  },
+  {
+    "name": "projects-id-image-captioning___fr",
+    "path": "/fr/projects/:id/image-captioning",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-captioning/index.vue",
+    "chunkName": "pages/projects/_id/image-captioning/index",
+    "_name": "_046ab805"
+  },
+  {
+    "name": "projects-id-image-classification___fr",
+    "path": "/fr/projects/:id/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-classification/index.vue",
+    "chunkName": "pages/projects/_id/image-classification/index",
+    "_name": "_137b6c2f"
+  },
+  {
+    "name": "projects-id-intent-detection-and-slot-filling___fr",
+    "path": "/fr/projects/:id/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/projects/_id/intent-detection-and-slot-filling/index",
+    "_name": "_7040c05e"
+  },
+  {
+    "name": "projects-id-labels___fr",
+    "path": "/fr/projects/:id/labels",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/index.vue",
+    "chunkName": "pages/projects/_id/labels/index",
+    "_name": "_ceb46c54"
+  },
+  {
+    "name": "projects-id-members___fr",
+    "path": "/fr/projects/:id/members",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/members/index.vue",
+    "chunkName": "pages/projects/_id/members/index",
+    "_name": "_08c35ef8"
+  },
+  {
+    "name": "projects-id-metrics___fr",
+    "path": "/fr/projects/:id/metrics",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/metrics/index.vue",
+    "chunkName": "pages/projects/_id/metrics/index",
+    "_name": "_3b796bbc"
+  },
+  {
+    "name": "projects-id-object-detection___fr",
+    "path": "/fr/projects/:id/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/object-detection/index.vue",
+    "chunkName": "pages/projects/_id/object-detection/index",
+    "_name": "_44b25364"
+  },
+  {
+    "name": "projects-id-segmentation___fr",
+    "path": "/fr/projects/:id/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/segmentation/index.vue",
+    "chunkName": "pages/projects/_id/segmentation/index",
+    "_name": "_271f90b9"
+  },
+  {
+    "name": "projects-id-sequence-labeling___fr",
+    "path": "/fr/projects/:id/sequence-labeling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-labeling/index.vue",
+    "chunkName": "pages/projects/_id/sequence-labeling/index",
+    "_name": "_9aa696ce"
+  },
+  {
+    "name": "projects-id-sequence-to-sequence___fr",
+    "path": "/fr/projects/:id/sequence-to-sequence",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-to-sequence/index.vue",
+    "chunkName": "pages/projects/_id/sequence-to-sequence/index",
+    "_name": "_572d3d9e"
+  },
+  {
+    "name": "projects-id-settings___fr",
+    "path": "/fr/projects/:id/settings",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/settings/index.vue",
+    "chunkName": "pages/projects/_id/settings/index",
+    "_name": "_b6724c0c"
+  },
+  {
+    "name": "projects-id-speech-to-text___fr",
+    "path": "/fr/projects/:id/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/speech-to-text/index.vue",
+    "chunkName": "pages/projects/_id/speech-to-text/index",
+    "_name": "_43a7deeb"
+  },
+  {
+    "name": "projects-id-text-classification___fr",
+    "path": "/fr/projects/:id/text-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/text-classification/index.vue",
+    "chunkName": "pages/projects/_id/text-classification/index",
+    "_name": "_aca5efb6"
+  },
+  {
+    "name": "projects-id-comments___zh",
+    "path": "/zh/projects/:id/comments",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/comments/index.vue",
+    "chunkName": "pages/projects/_id/comments/index",
+    "_name": "_8246aaea"
+  },
+  {
+    "name": "projects-id-dataset___zh",
+    "path": "/zh/projects/:id/dataset",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/index.vue",
+    "chunkName": "pages/projects/_id/dataset/index",
+    "_name": "_7baedf97"
+  },
+  {
+    "name": "projects-id-guideline___zh",
+    "path": "/zh/projects/:id/guideline",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/guideline/index.vue",
+    "chunkName": "pages/projects/_id/guideline/index",
+    "_name": "_7bdf910f"
+  },
+  {
+    "name": "projects-id-image-captioning___zh",
+    "path": "/zh/projects/:id/image-captioning",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-captioning/index.vue",
+    "chunkName": "pages/projects/_id/image-captioning/index",
+    "_name": "_046ab805"
+  },
+  {
+    "name": "projects-id-image-classification___zh",
+    "path": "/zh/projects/:id/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-classification/index.vue",
+    "chunkName": "pages/projects/_id/image-classification/index",
+    "_name": "_137b6c2f"
+  },
+  {
+    "name": "projects-id-intent-detection-and-slot-filling___zh",
+    "path": "/zh/projects/:id/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/projects/_id/intent-detection-and-slot-filling/index",
+    "_name": "_7040c05e"
+  },
+  {
+    "name": "projects-id-labels___zh",
+    "path": "/zh/projects/:id/labels",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/index.vue",
+    "chunkName": "pages/projects/_id/labels/index",
+    "_name": "_ceb46c54"
+  },
+  {
+    "name": "projects-id-members___zh",
+    "path": "/zh/projects/:id/members",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/members/index.vue",
+    "chunkName": "pages/projects/_id/members/index",
+    "_name": "_08c35ef8"
+  },
+  {
+    "name": "projects-id-metrics___zh",
+    "path": "/zh/projects/:id/metrics",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/metrics/index.vue",
+    "chunkName": "pages/projects/_id/metrics/index",
+    "_name": "_3b796bbc"
+  },
+  {
+    "name": "projects-id-object-detection___zh",
+    "path": "/zh/projects/:id/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/object-detection/index.vue",
+    "chunkName": "pages/projects/_id/object-detection/index",
+    "_name": "_44b25364"
+  },
+  {
+    "name": "projects-id-segmentation___zh",
+    "path": "/zh/projects/:id/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/segmentation/index.vue",
+    "chunkName": "pages/projects/_id/segmentation/index",
+    "_name": "_271f90b9"
+  },
+  {
+    "name": "projects-id-sequence-labeling___zh",
+    "path": "/zh/projects/:id/sequence-labeling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-labeling/index.vue",
+    "chunkName": "pages/projects/_id/sequence-labeling/index",
+    "_name": "_9aa696ce"
+  },
+  {
+    "name": "projects-id-sequence-to-sequence___zh",
+    "path": "/zh/projects/:id/sequence-to-sequence",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-to-sequence/index.vue",
+    "chunkName": "pages/projects/_id/sequence-to-sequence/index",
+    "_name": "_572d3d9e"
+  },
+  {
+    "name": "projects-id-settings___zh",
+    "path": "/zh/projects/:id/settings",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/settings/index.vue",
+    "chunkName": "pages/projects/_id/settings/index",
+    "_name": "_b6724c0c"
+  },
+  {
+    "name": "projects-id-speech-to-text___zh",
+    "path": "/zh/projects/:id/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/speech-to-text/index.vue",
+    "chunkName": "pages/projects/_id/speech-to-text/index",
+    "_name": "_43a7deeb"
+  },
+  {
+    "name": "projects-id-text-classification___zh",
+    "path": "/zh/projects/:id/text-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/text-classification/index.vue",
+    "chunkName": "pages/projects/_id/text-classification/index",
+    "_name": "_aca5efb6"
+  },
+  {
+    "name": "projects-id-dataset-export___de",
+    "path": "/de/projects/:id/dataset/export",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/export.vue",
+    "chunkName": "pages/projects/_id/dataset/export",
+    "_name": "_46869682"
+  },
+  {
+    "name": "projects-id-dataset-import___de",
+    "path": "/de/projects/:id/dataset/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/import.vue",
+    "chunkName": "pages/projects/_id/dataset/import",
+    "_name": "_4ef1b430"
+  },
+  {
+    "name": "projects-id-labels-add___de",
+    "path": "/de/projects/:id/labels/add",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/add.vue",
+    "chunkName": "pages/projects/_id/labels/add",
+    "_name": "_da26f5b6"
+  },
+  {
+    "name": "projects-id-labels-import___de",
+    "path": "/de/projects/:id/labels/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/import.vue",
+    "chunkName": "pages/projects/_id/labels/import",
+    "_name": "_5e4fdc5e"
+  },
+  {
+    "name": "projects-id-dataset-export___fr",
+    "path": "/fr/projects/:id/dataset/export",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/export.vue",
+    "chunkName": "pages/projects/_id/dataset/export",
+    "_name": "_46869682"
+  },
+  {
+    "name": "projects-id-dataset-import___fr",
+    "path": "/fr/projects/:id/dataset/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/import.vue",
+    "chunkName": "pages/projects/_id/dataset/import",
+    "_name": "_4ef1b430"
+  },
+  {
+    "name": "projects-id-labels-add___fr",
+    "path": "/fr/projects/:id/labels/add",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/add.vue",
+    "chunkName": "pages/projects/_id/labels/add",
+    "_name": "_da26f5b6"
+  },
+  {
+    "name": "projects-id-labels-import___fr",
+    "path": "/fr/projects/:id/labels/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/import.vue",
+    "chunkName": "pages/projects/_id/labels/import",
+    "_name": "_5e4fdc5e"
+  },
+  {
+    "name": "projects-id-dataset-export___zh",
+    "path": "/zh/projects/:id/dataset/export",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/export.vue",
+    "chunkName": "pages/projects/_id/dataset/export",
+    "_name": "_46869682"
+  },
+  {
+    "name": "projects-id-dataset-import___zh",
+    "path": "/zh/projects/:id/dataset/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/import.vue",
+    "chunkName": "pages/projects/_id/dataset/import",
+    "_name": "_4ef1b430"
+  },
+  {
+    "name": "projects-id-labels-add___zh",
+    "path": "/zh/projects/:id/labels/add",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/add.vue",
+    "chunkName": "pages/projects/_id/labels/add",
+    "_name": "_da26f5b6"
+  },
+  {
+    "name": "projects-id-labels-import___zh",
+    "path": "/zh/projects/:id/labels/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/import.vue",
+    "chunkName": "pages/projects/_id/labels/import",
+    "_name": "_5e4fdc5e"
+  },
+  {
+    "name": "projects-id-dataset-example_id-edit___de",
+    "path": "/de/projects/:id/dataset/:example_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/_example_id/edit.vue",
+    "chunkName": "pages/projects/_id/dataset/_example_id/edit",
+    "_name": "_66cd5e96"
+  },
+  {
+    "name": "projects-id-labels-label_id-edit___de",
+    "path": "/de/projects/:id/labels/:label_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/_label_id/edit.vue",
+    "chunkName": "pages/projects/_id/labels/_label_id/edit",
+    "_name": "_272cd8e0"
+  },
+  {
+    "name": "projects-id-dataset-example_id-edit___fr",
+    "path": "/fr/projects/:id/dataset/:example_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/_example_id/edit.vue",
+    "chunkName": "pages/projects/_id/dataset/_example_id/edit",
+    "_name": "_66cd5e96"
+  },
+  {
+    "name": "projects-id-labels-label_id-edit___fr",
+    "path": "/fr/projects/:id/labels/:label_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/_label_id/edit.vue",
+    "chunkName": "pages/projects/_id/labels/_label_id/edit",
+    "_name": "_272cd8e0"
+  },
+  {
+    "name": "projects-id-dataset-example_id-edit___zh",
+    "path": "/zh/projects/:id/dataset/:example_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/_example_id/edit.vue",
+    "chunkName": "pages/projects/_id/dataset/_example_id/edit",
+    "_name": "_66cd5e96"
+  },
+  {
+    "name": "projects-id-labels-label_id-edit___zh",
+    "path": "/zh/projects/:id/labels/:label_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/_label_id/edit.vue",
+    "chunkName": "pages/projects/_id/labels/_label_id/edit",
+    "_name": "_272cd8e0"
+  },
+  {
+    "name": "projects-id___en",
+    "path": "/projects/:id",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/index.vue",
+    "chunkName": "pages/projects/_id/index",
+    "_name": "_19d23f24"
+  },
+  {
+    "name": "projects-id-comments___en",
+    "path": "/projects/:id/comments",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/comments/index.vue",
+    "chunkName": "pages/projects/_id/comments/index",
+    "_name": "_8246aaea"
+  },
+  {
+    "name": "projects-id-dataset___en",
+    "path": "/projects/:id/dataset",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/index.vue",
+    "chunkName": "pages/projects/_id/dataset/index",
+    "_name": "_7baedf97"
+  },
+  {
+    "name": "projects-id-guideline___en",
+    "path": "/projects/:id/guideline",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/guideline/index.vue",
+    "chunkName": "pages/projects/_id/guideline/index",
+    "_name": "_7bdf910f"
+  },
+  {
+    "name": "projects-id-image-captioning___en",
+    "path": "/projects/:id/image-captioning",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-captioning/index.vue",
+    "chunkName": "pages/projects/_id/image-captioning/index",
+    "_name": "_046ab805"
+  },
+  {
+    "name": "projects-id-image-classification___en",
+    "path": "/projects/:id/image-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/image-classification/index.vue",
+    "chunkName": "pages/projects/_id/image-classification/index",
+    "_name": "_137b6c2f"
+  },
+  {
+    "name": "projects-id-intent-detection-and-slot-filling___en",
+    "path": "/projects/:id/intent-detection-and-slot-filling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/intent-detection-and-slot-filling/index.vue",
+    "chunkName": "pages/projects/_id/intent-detection-and-slot-filling/index",
+    "_name": "_7040c05e"
+  },
+  {
+    "name": "projects-id-labels___en",
+    "path": "/projects/:id/labels",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/index.vue",
+    "chunkName": "pages/projects/_id/labels/index",
+    "_name": "_ceb46c54"
+  },
+  {
+    "name": "projects-id-members___en",
+    "path": "/projects/:id/members",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/members/index.vue",
+    "chunkName": "pages/projects/_id/members/index",
+    "_name": "_08c35ef8"
+  },
+  {
+    "name": "projects-id-metrics___en",
+    "path": "/projects/:id/metrics",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/metrics/index.vue",
+    "chunkName": "pages/projects/_id/metrics/index",
+    "_name": "_3b796bbc"
+  },
+  {
+    "name": "projects-id-object-detection___en",
+    "path": "/projects/:id/object-detection",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/object-detection/index.vue",
+    "chunkName": "pages/projects/_id/object-detection/index",
+    "_name": "_44b25364"
+  },
+  {
+    "name": "projects-id-segmentation___en",
+    "path": "/projects/:id/segmentation",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/segmentation/index.vue",
+    "chunkName": "pages/projects/_id/segmentation/index",
+    "_name": "_271f90b9"
+  },
+  {
+    "name": "projects-id-sequence-labeling___en",
+    "path": "/projects/:id/sequence-labeling",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-labeling/index.vue",
+    "chunkName": "pages/projects/_id/sequence-labeling/index",
+    "_name": "_9aa696ce"
+  },
+  {
+    "name": "projects-id-sequence-to-sequence___en",
+    "path": "/projects/:id/sequence-to-sequence",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/sequence-to-sequence/index.vue",
+    "chunkName": "pages/projects/_id/sequence-to-sequence/index",
+    "_name": "_572d3d9e"
+  },
+  {
+    "name": "projects-id-settings___en",
+    "path": "/projects/:id/settings",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/settings/index.vue",
+    "chunkName": "pages/projects/_id/settings/index",
+    "_name": "_b6724c0c"
+  },
+  {
+    "name": "projects-id-speech-to-text___en",
+    "path": "/projects/:id/speech-to-text",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/speech-to-text/index.vue",
+    "chunkName": "pages/projects/_id/speech-to-text/index",
+    "_name": "_43a7deeb"
+  },
+  {
+    "name": "projects-id-text-classification___en",
+    "path": "/projects/:id/text-classification",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/text-classification/index.vue",
+    "chunkName": "pages/projects/_id/text-classification/index",
+    "_name": "_aca5efb6"
+  },
+  {
+    "name": "projects-id-dataset-export___en",
+    "path": "/projects/:id/dataset/export",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/export.vue",
+    "chunkName": "pages/projects/_id/dataset/export",
+    "_name": "_46869682"
+  },
+  {
+    "name": "projects-id-dataset-import___en",
+    "path": "/projects/:id/dataset/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/import.vue",
+    "chunkName": "pages/projects/_id/dataset/import",
+    "_name": "_4ef1b430"
+  },
+  {
+    "name": "projects-id-labels-add___en",
+    "path": "/projects/:id/labels/add",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/add.vue",
+    "chunkName": "pages/projects/_id/labels/add",
+    "_name": "_da26f5b6"
+  },
+  {
+    "name": "projects-id-labels-import___en",
+    "path": "/projects/:id/labels/import",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/import.vue",
+    "chunkName": "pages/projects/_id/labels/import",
+    "_name": "_5e4fdc5e"
+  },
+  {
+    "name": "projects-id-dataset-example_id-edit___en",
+    "path": "/projects/:id/dataset/:example_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/dataset/_example_id/edit.vue",
+    "chunkName": "pages/projects/_id/dataset/_example_id/edit",
+    "_name": "_66cd5e96"
+  },
+  {
+    "name": "projects-id-labels-label_id-edit___en",
+    "path": "/projects/:id/labels/:label_id/edit",
+    "component": "/home/aodem/playground/doccano-playground2/frontend/pages/projects/_id/labels/_label_id/edit.vue",
+    "chunkName": "pages/projects/_id/labels/_label_id/edit",
+    "_name": "_272cd8e0"
+  }
+]
