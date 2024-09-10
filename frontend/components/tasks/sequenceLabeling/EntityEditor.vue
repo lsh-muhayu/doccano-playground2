@@ -39,7 +39,9 @@
 </template>
 
 <script lang="ts">
-import VAnnotator from 'v-annotator'
+// import VAnnotator from 'v-annotator'
+// @ts-ignore
+import VAnnotator from 'v-annotator-playground-haha'
 import type { PropType } from 'vue'
 import Vue from 'vue'
 import 'vue-virtual-scroller/dist/vue-virtual-scroller.css'
